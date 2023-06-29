@@ -1,0 +1,6 @@
+HOMECOLORS = {
+  header: {
+    light: {},
+    dark: {},
+  },
+};

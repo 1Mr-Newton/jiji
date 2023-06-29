@@ -1,0 +1,25 @@
+export const categoryItemPaths = {
+  trendingIcon: require("../assets/trending.png"),
+  vehiclesIcon: require("../assets/vehicles.png"),
+  propertyIcon: require("../assets/property.png"),
+  mobilephonestabletsIcon: require("../assets/mobilephonestablets.png"),
+  electronicsIcon: require("../assets/electronics.png"),
+  homefurnitureappliancesIcon: require("../assets/homefurnitureappliances.png"),
+  healthbeautyIcon: require("../assets/healthbeauty.png"),
+  fashionIcon: require("../assets/fashion.png"),
+  sportsartsoutdoorsIcon: require("../assets/sportsartsoutdoors.png"),
+  seekingworkcvsIcon: require("../assets/seekingworkcvs.png"),
+  servicesIcon: require("../assets/services.png"),
+  jobsIcon: require("../assets/jobs.png"),
+  babieskidsIcon: require("../assets/babieskids.png"),
+  animalspetsIcon: require("../assets/animalspets.png"),
+  agriculturefoodIcon: require("../assets/agriculturefood.png"),
+  commercialequipmenttoolsIcon: require("../assets/commercialequipmenttools.png"),
+  repairconstructionIcon: require("../assets/repairconstruction.png"),
+};
+export const imagePaths = {
+  homeIcon: require("../assets/home.png"),
+  favIcon: require("../assets/favorite.png"),
+  messageIcon: require("../assets/message.png"),
+  profileIcon: require("../assets/profile.png"),
+};
